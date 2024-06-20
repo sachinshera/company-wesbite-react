@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "type": "Full-time",
+      "title": "Frontend Developer",
+      "subtitle": "San Francisco, CA",
+      "salaryRange": "$80,000 - $120,000",
+      "description": "We are looking for a skilled Frontend Developer to join our team. You will be responsible for developing and maintaining user interfaces for our web applications using modern technologies like React, Angular, and Vue.js. The ideal candidate has a strong understanding of web design principles, experience with responsive design, and a passion for creating intuitive and visually appealing user experiences."
+    },
+    {
+      "id": "2",
+      "type": "Part-time",
+      "title": "Backend Developer",
+      "subtitle": "New York, NY",
+      "salaryRange": "$60,000 - $100,000",
+      "description": "Join our dynamic team as a Backend Developer. In this role, you will work on developing and maintaining server-side logic, ensuring high performance and responsiveness to requests from the front-end. Strong proficiency in server-side programming languages like Node.js, Python, or Ruby is required. Experience with database management systems such as PostgreSQL, MySQL, or MongoDB is preferred."
+    },
+    {
+      "id": "3",
+      "type": "Contract",
+      "title": "UI/UX Designer",
+      "subtitle": "Remote",
+      "salaryRange": "$50,000 - $90,000",
+      "description": "We are seeking a talented UI/UX Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful design, possess superior UI/UX skills, and be able to translate high-level requirements into interaction flows and artifacts, and transform them into beautiful, intuitive, and functional user interfaces. Proficiency in design tools like Sketch, Figma, or Adobe XD is essential."
+    },
+    {
+      "id": "4",
+      "type": "Full-time",
+      "title": "Data Scientist",
+      "subtitle": "Austin, TX",
+      "salaryRange": "$90,000 - $130,000",
+      "description": "As a Data Scientist, you will analyze large amounts of raw information to find patterns and insights that will help drive strategic decisions. We are looking for someone with a strong background in data analysis, machine learning, and statistical modeling. Proficiency in programming languages such as Python or R and experience with data visualization tools like Tableau or Power BI is essential."
+    },
+    {
+      "id": "5",
+      "type": "Internship",
+      "title": "Marketing Intern",
+      "subtitle": "Chicago, IL",
+      "salaryRange": "$15 - $20 per hour",
+      "description": "We are looking for a Marketing Intern to support our marketing team in its primary and administrative duties. You will assist in the organization of campaigns and the development of marketing strategies. The ideal candidate is a creative, self-starter with excellent communication skills and a strong interest in marketing and digital media."
+    },
+    {
+      "id": "e438",
+      "title": "Junior Devops",
+      "subtitle": "SUbtitle",
+      "description": "this is desc",
+      "type": "Part Time",
+      "salaryRange": "$50,000 - $90,000"
+    },
+    {
+      "id": "c893",
+      "title": "farmer",
+      "subtitle": "Patna",
+      "description": "This  job is located in patna",
+      "type": "",
+      "salaryRange": "$50,000 - $90,000"
+    }
+  ]
+}
